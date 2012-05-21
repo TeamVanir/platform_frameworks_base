@@ -1883,8 +1883,15 @@ public final class Settings {
          */
         public static final String POINTER_SPEED = "pointer_speed";
 
-        public static final String LOCKSCREEN_TARGETS = "lockscreen_targets";
+   	 /**
+         * Navigation controls to Use
+         *
+         * @hide
+         */
+        public static final String NAV_BUTTONS = "nav_buttons";
 
+        public static final String LOCKSCREEN_TARGETS = "lockscreen_targets";
+    
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
