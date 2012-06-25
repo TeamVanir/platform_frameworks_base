@@ -2039,7 +2039,6 @@ public final class Settings {
          *
          * @hide
          */
-        public static final String STATUS_BAR_BRIGHTNESS_TOGGLE = "status_bar_brightness_toggle";
 
         /**
          * Whether to use a separate delay for "slide to unlock" and security

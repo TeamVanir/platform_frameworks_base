@@ -1295,6 +1295,4 @@
 
     <!-- Lock screen Weather - error messages -->
     <string name="weather_tap_to_refresh">Zum Aktualisieren berühren</string>
-
->>>>>>> b0a4ed8... Framework: Lock screen weather (Part 2 of 2)
 </resources>
